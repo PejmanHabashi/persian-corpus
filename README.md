@@ -5,7 +5,7 @@ This repository will contain continuation of UPPSALA Persian Corpus. Which itsel
 # Fixes Applied
 
 A set of fixes has been already applied to the corpus:"
-  - Sometimes, "ث" has been used instead of "ه‌ی", like "دایرث". (potentially few still remains)
+  - Sometimes, "ث" has been used instead of "ه‌ی" at the end of the word (Note there is ZWNJ character between two characters). Like "دایرث" insted od "دایره‌ی". (potentially few still remains)
   - Few tags where missing which added.
   
 
